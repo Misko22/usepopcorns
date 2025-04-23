@@ -43,3 +43,37 @@ Check versions with:
 node -v
 npm -v
 git --version
+
+
+
+## 📸 Screenshots:
+
+Here’s a sneak peek of the app in action:  
+*Searching for "Scarface" and managing the watchlist.*
+
+![UsePopcorns Screenshot](screenshots/app-preview.png)
+
+---
+
+## 🗓️ Roadmap / Future Enhancements:
+
+- Integrate a **movie database API** (e.g., TMDb, OMDb)
+- Enhance **mobile responsiveness** for all devices
+- Add **user authentication** for personalized experiences
+- Improve **error handling** and **loading states**
+- And maybe… just maybe… a **biotech dashboard** in the next project 🧬😉
+
+---
+
+## 🙌 Acknowledgements:
+
+Special thanks to:
+
+- **Coffee ☕**
+- **YouTube tutorials 🎥**
+- **Stack Overflow** (our unofficial co-pilot)
+- And my **biotech roots** for teaching me patience (because DNA sequencing takes longer than waiting for `npm install`! 😅)
+
+This project is part of my **transition from biotechnology to software development**, currently studying **Computer Programming** at **Seneca Polytechnic (Toronto, Canada)** and blending my **scientific curiosity** with the **logic of code**.
+
+---
